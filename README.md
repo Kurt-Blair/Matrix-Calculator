@@ -1,4 +1,4 @@
-Assingment 3: Library System Object Oriented Program
+Assignment 3: Library System Object Oriented Program
 
 Matrix.java: Matrix Calculator Program
 
